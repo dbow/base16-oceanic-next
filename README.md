@@ -1,3 +1,5 @@
+*Note(dbow): This fork just adds italics to a few more VIM syntax groups*
+
 This project generates the [Oceanic Next](https://github.com/voronianski/oceanic-next-color-scheme) color scheme
 for a variety of text editors using [base16-builder](https://github.com/chriskempson/base16-builder).
 
